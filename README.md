@@ -14,8 +14,4 @@ This project explores and compares the performance of three different machine le
 *   **LightGBM (Light Gradient Boosting Machine):** A gradient boosting framework that uses tree-based learning algorithms. LightGBM is known for its speed and efficiency, particularly with large datasets, and often achieves state-of-the-art results.
 
 
-## Results
-
-    *   The LightGBM model achieved the best performance with an accuracy of  and an AUC-ROC of .  The Random Forest model achieved an accuracy of  and the Gradient Boosting model achieved an accuracy of .
-*   *a table or plot comparing the performance of the models.*
 
